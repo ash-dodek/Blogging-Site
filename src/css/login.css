@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Inconsolata:wght@500&display=swap');
+.page{
+    position: absolute;
+    /* top: 50%; */
+    margin-top: -20px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: fit-content;
+    background: inherit;
+    /* background: rgb(235, 254, 241); */
+}
+
+.loginContent{
+    border: 1px transparent;
+    /* text-align: center; */
+    padding: 50px 50px 50px 50px;
+    padding-bottom: 13px;
+    /* width: fit-content; */
+    width: 45%;
+    height: 75%;
+    margin: 0 auto;
+    background: #1e1e1e;
+    margin-top: 40px;
+    font-family: 'Kanit', sans-serif;
+    border-radius: 10px;
+    
+}
+.mainContent{
+    margin: 20px 20px 20px 20px;
+    font-size: 20px;
+}
+
+.txtArea{
+    resize: none;
+    font-size: 18px;
+    background: #e9e6e6;
+    /* font-family: 'Inconsolata', monospace; */
+    /* text-align: center; */
+}
+.txtArea:active{
+    background: #e9e6e6;
+}
+.login{
+    width: 100%;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+#loginButton{
+    padding-left: 12px;
+    padding-right: 12px;
+    border: none;
+    border-radius: 5px;
+    background: rgb(131 237 176);
+    font-size: 22px;
+}
+.no-acc{
+    font-size: 18px;
+    margin-top: 10px;
+    width: 100%;
+    text-align: center;
+}
+.s-label{
+    font-weight: 400;
+}

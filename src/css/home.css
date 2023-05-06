@@ -1,0 +1,40 @@
+.title-head{
+    padding-top: 20px;
+    font-family: 'Cascadia Code';
+    margin-bottom: 15px;
+    margin-top: 15px;
+    /* display: inline-block; */
+    /* background: red; */
+}
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
+.title-head-text{
+    /* background: blue; */
+    font-family: 'Kanit', sans-serif;
+    padding-left: 2.5%;
+    font-size: 27px;
+}
+
+.title-head-content{
+    padding: 30px;
+    padding-left: 2%;
+    padding-top: 5px;
+}
+
+.main-content{
+    background: #252526;
+    color: white;
+}
+
+body{
+    background: #252526;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    /* cursor: pointer; */
+    text-decoration: underline;
+}
