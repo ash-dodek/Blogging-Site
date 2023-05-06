@@ -2,7 +2,7 @@
   "name": "blogging-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ash-dodek.github.io/blogging-site",
+  "homepage": "https://ash-dodek.github.io/Blogging-Site",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
